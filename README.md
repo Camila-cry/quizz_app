@@ -2,20 +2,19 @@ Quiz App Flutter
 
 Projeto desenvolvido em Flutter com o objetivo de criar a primeira tela de um aplicativo com estrutura de quiz.
 
-## 🎯 Objetivo
+ Objetivo
 
 Criar uma interface contendo:
 - Pergunta
 - Opções de resposta
 - Botão de envio
 
-## 🛠️ Tecnologias utilizadas
+ Tecnologias utilizadas
 
 - Flutter
 - Dart
 - Material Design
-
-## 📸 Funcionalidades
+ Funcionalidades
 
 - Exibição de pergunta
 - Seleção de alternativas
